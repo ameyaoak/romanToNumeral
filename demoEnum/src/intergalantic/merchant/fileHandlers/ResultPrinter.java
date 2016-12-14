@@ -1,7 +1,5 @@
 package intergalantic.merchant.fileHandlers;
 
-import java.io.BufferedReader;
-
 import intergalantic.merchant.Constants;
 
 public class ResultPrinter {
